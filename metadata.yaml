@@ -1,0 +1,28 @@
+_repo: The-Dyeing-of-Woollen-Fabrics_19985
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Beech, Franklin
+    gutenberg_agent_id: '9012'
+    url: http://www.gutenberg.org/2009/agents/9012
+description: ''
+gutenberg_bookshelf:
+- Technology
+- Crafts
+gutenberg_issued: '2006-12-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '19985'
+  lccn: '55045805'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'TP'
+- !lcsh 'Dyes and dyeing -- Wool'
+title: The Dyeing of Woollen Fabrics
+url: http://www.gutenberg.org/ebooks/19985
